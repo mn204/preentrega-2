@@ -19,6 +19,9 @@ body {
     margin: 0;
     margin-bottom: 40px;
 }
+main{
+    padding: 20px;
+}
 footer {
     background-color: black;
     position: absolute;
