@@ -38,3 +38,7 @@ footer {
 .redes {
     filter:invert(100%);
 }
+.videos {
+    width: 482px;
+    height: 272px;
+}
